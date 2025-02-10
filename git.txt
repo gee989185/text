@@ -7,3 +7,5 @@ comit (-m)
 checkout
 push (-u origin main)
 config --list
+getch
+pull
