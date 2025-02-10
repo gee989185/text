@@ -1,2 +1,2 @@
 -분산버전과리시스템,파이썬소개
--git명령어(init, add, commit, config),리눅스명령어(ls, ls -a)
+-git명령어, 리눅스명령어
